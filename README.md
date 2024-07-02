@@ -36,9 +36,10 @@ Este repositorio contiene un **prototipo funcional del clásico juego Pong**, im
 
 Se anima a la comunidad a contribuir al proyecto creando nuevas características, corrigiendo errores o mejorando el código existente. Puedes hacerlo creando un "issue" o enviando un "pull request" en GitHub.
 
-**¡Esperamos que disfrutes jugando a Pong Pygame!**
-
 **Licencia:**
 
 Este proyecto se distribuye bajo la licencia [**Creative Commons Zero (CC0) 1.0**](https://creativecommons.org/). Esta licencia permite a cualquier persona usar, modificar y distribuir el contenido de este proyecto sin restricciones.
+
+
+### **¡Esperamos que disfrutes jugando a esta versión de Pong!**
 
